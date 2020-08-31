@@ -1,0 +1,3 @@
+This is a read me file.........
+Just run the app and follow prompts.
+# CS_Calculator
